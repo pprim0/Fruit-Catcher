@@ -1,0 +1,6 @@
+Top 5 indivíduos finais:
+#1: Média = 21.30, Desvio = 9.59
+#2: Média = 21.00, Desvio = 10.15
+#3: Média = 20.80, Desvio = 8.92
+#4: Média = 20.80, Desvio = 8.92
+#5: Média = 20.10, Desvio = 11.39
